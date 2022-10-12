@@ -1,0 +1,7 @@
+    selling a subscription to a service (e.g real time trades on Twitter)
+
+    hosting the algorithm and letting people deposit portfolios
+
+    or just selling the code for a lump sum.
+
+    social trading (i.e eToro)

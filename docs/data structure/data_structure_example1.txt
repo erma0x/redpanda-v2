@@ -1,0 +1,40 @@
+Example of general Portfolo Data Structure with one TradingStrategy built with MathEquations
+        
+Portfolio.data_structure['id63410201']
+
+# initialize_portfolio
+# initialize_TradingStrategy
+
+  { 'id63410201' : {
+                'metadata':{
+                    
+                    'initial_capital': 5_000,           
+                    'investment_precentage' = 0.042
+                    'market': 'FOREX'
+                    'ticker': 'EURUSD' 
+                    'derivate_product' : {'name':'CFD',
+                                        'levarage' = 3}
+        
+                            }
+
+                'trading_strategy':{
+
+                'open' : {
+                                   'logic' : '(A > B > C) and V > 30 ', # LogicElementsCombinator
+
+                                   'A' : equation_A
+                                   'B' : equation_B
+                                   'C' : equation_C # MathEquations
+
+                                   }
+                'closing' : {
+                                   'logic' : '(A > B > C) < D',
+
+                                   'A' : equation_A
+                                   'B' : equation_B
+                                   'C' : equation_C
+                                   
+                                   }
+                                }   
+                }
+            }

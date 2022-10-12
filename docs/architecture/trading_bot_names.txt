@@ -1,0 +1,6 @@
+1 demon hunter
+2 onyx
+3 pyro
+4 alien
+5 ronin
+6 black fox

@@ -1,0 +1,92 @@
+1) listen to your customers, spend more time listen to your customers
+    * maniacally focus on their problems
+    * have more than a basic understanding of the customer problem (at-least have a basic sense)
+    * you don't want to end up building products no one wants to use
+    * example: smolt (basically, listen to your customers)
+
+
+2) but also stop listening to your customers when it comes to building solutions
+    * don't always listen to your customers
+    * example: orab B toothbrush
+
+
+3) watch the competition
+    * surfing on product hunt, reading techcrunch does not count
+    * they are a rich source of information, better understand customers problems
+    * every time a company ships a feature, thats a user test I can learn from there is so much beta information and information from customers on 
+    * ex: amazon reviews: oral B information
+        * youtube review: oral B information. it has 11K views. and comments. more comments on fact that you can't replace battery
+
+        
+4) don't watch the competition
+    * stop worrying so much about what the competition is doing, in our tech bubble in our echo chamber, we froth ourselves to be in the race to implement that new technology. 
+    * is that "new feature" that your competition released REALLY what your customers need?
+    * the competition is made up of people just like you and me. and they've got the same challenges as you. 
+    * Last MTP (mind the product talk) in London all about how structure of human brain and cognitive biases make it impossible to make good decisions
+    * if the competition creates something that really works with their customers and it works for them, don't be afraid to take that idea though!
+
+
+5) be a thief
+    * you don't have to come up with ALL the ideas, your job as a product manager is to solve your customers problem so take ideas from other products/services and make it your own
+
+
+6) get paid
+    * most of us as PMs are working on a commercial endeavor but will the CUSTOMER pay for this feature? 
+    * ask them what's their willingness to pay
+    * example: Evernote; in search of profitability it changed the way people use it products. internet lost its mind. not because they hate evernote but really because evernote was charging for some features that were previously free. they decided to solve "THEIR" problem but not their "CUSTOMERS" problem.
+        * issue 1: 60mb? what is that? why is that?
+        * issue 2: charge for features that were previously free
+        * issue 3: 1gb limit? how would i know if i reached that?
+        * issue 4: access notebooks offline: not quite something i'd pay for because i might have internet access everywhere
+        * issue 5: customer service feature? why charge consumers for basic customer service?
+        * issue 6: evernote press release saying "they're trying really hard" 
+    * so make sure have enough value, or create enough value for your customers to pay you
+
+
+7) stop worrying about getting paid
+    * we're business-casing the soul out of our product. we're elaborating every feature release with business cases and these arduous processes and not only it slows us down but creates a culture of small incremental thinking for small incremental gains. 
+    * when dave started as PM, he started as functional product manager. but now we have to look for their social needs, emotional needs, trusts. they want to feel connected, want entertained, they want to cheer for us. trust isn't build on megabytes. trust is built on understanding that we know who they are and that they believe that we have their best interest in our heart, we make them feel like a tribe
+    * example: mondo
+        * feature: freeze a card (defrost a card). it didn't take much, but it made users chuckle
+    * example: true jerky
+        * feature: put dental floss. did it increase their cost? yes. but it made user SMILE
+    * example: pagerduty
+        * feature: on call when your site goes down in the middle of the night: they really understood that. so they recorded these hilarious ringtones when "sh*t" happens so they recorded these quartet taking basic IT issues. it makes people smile. how do you put an ROI on that? 
+        * jeff atwood tweeted about it, appealing to your customers social and emotional needs than just functional needs
+
+
+8) Speed Up!
+    * value is destroyed through inaction. as product managers we understand how many $ it takes, the cost it takes, how many story points it takes, but we need to GRASP is the cost of inaction
+
+
+9) cost of delay
+    * we put off making decision for many reasons. every-time you put off making a decision, you are destroying value. the features and the products we ship have a limited shelf life and the longer it takes them to get to market the less value they have. so every-time you're thinking of putting off that decision, you're destroying value. every time you are leaving a question that someone has go unanswered, you're killing value. 
+    * of course, there are all kinds of reasons why we put off making decisions. not having enough information, not knowing who the decision maker
+    * example: we haven't been able to get hold of a meeting room!
+
+
+10) Say No
+    * as product managers we don't say NO enough. it's one of those things that is so powerful. our job is hard. we got lots of stakeholders, lots of people happy. this isn't about making people happy. this is about making CUSTOMERS happy. 
+    * examples:
+        * ceo asks for feature because he thinks is cool: no
+        * sales rep asks for feature for one customer: no
+    * you say no because you're thinking you're protecting the team. your job is to protect the customer
+    * you say no because you don't like the person who requested it
+
+
+11) don't be a visionary
+    * you are not an oracle. so do the hard work, grind it out. 
+    * products don't need visionaries, they need product managers who are obsessed with understanding the customers problem and solving it. so don't be a visionary, be a product manager
+
+
+12) don't confuse yourself with your customers
+    * you are not your customer. you may use your product, but you are NOT ALL your customers
+
+
+13) be dumb
+    * always advocate for the customer and bring your customers perspective to the product
+
+
+
+
+End note: product management is a mindset, it's a craft. you're so lucky to have this amazing tribe of people that you can learn with and learn from.

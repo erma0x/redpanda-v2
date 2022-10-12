@@ -1,0 +1,19 @@
+price prediction
+
+modeling
+
+hedging
+
+sentiment analysis
+
+portfolio construction / risk analysis
+
+multy layer prediction (predict if the predictor will succed)
+
+credit ratings, analyt reccomendation
+
+features importance: where the money come from? execution, risk management, portfolio construction
+
+executions
+
+detection of false investment strategies -> correct multiple testing!!!

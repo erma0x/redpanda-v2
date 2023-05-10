@@ -1,14 +1,15 @@
-# RedPanda Toolkit: 
-trading model generator  💸
+# RedPanda
 
-Quantitative finance toolkit:
+## Description
+- trading model generator based on equation systems and financial indicators 💸
+- genetic algorithm parameter optimization
 
-	Generator
-	Optimizer
-	Researcher
-	Backtester
-	PaperTrader
-	LiveTrader
+## Components
+- Generator: generate random models
+- Optimizer: optimize parameters with genetic algorithm
+- Backtester: backtest the model with historical data
+- PaperTrader: test live trading with fake money 
+- LiveTrader:  test live trading with real money
 
 ## How to Install
  - python3 -m venv venv
